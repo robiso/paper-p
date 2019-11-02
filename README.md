@@ -1,8 +1,6 @@
 # wcms-paper-p
 Paper Portrait theme for WonderCMS (https://www.wondercms.com). This theme is a default Bootstrap theme like.
 
-# Demo
-https://wondercms-demo.000webhostapp.com/
 
 # Download and Setup
 1. Download the ZIP file.
@@ -18,4 +16,3 @@ https://wondercms-demo.000webhostapp.com/
 # Update
 * 1.0.0 - 2017-04-18
  - Initial version.
- 
