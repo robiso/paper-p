@@ -9,5 +9,5 @@
 
 # Features
 1. Color themes: Red, Green, and Blue.
-2. Selected theme will be saved to cookie.
-3. Suports WonderCMS-2.x.x
+2. Selected theme color will be saved to cookie when the user selects it.
+3. Suports WonderCMS-3.x.x
